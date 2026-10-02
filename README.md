@@ -1,4 +1,4 @@
-# Verification Code for Dominating Broadcast Partitions on C20
+# Verification Code for Dominating Broadcast Partitions on C20 with Fixed 3-coloring
 
 This repository contains a Python script `C20_verify.py` that verifies the partition properties of dominating broadcasts on the cycle graph C20, under the fixed coloring pattern [3,1,2,1] repeated 5 times.
 
